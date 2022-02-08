@@ -1,0 +1,12 @@
+SeriousGame
+SeriousGame.entity
+SeriousGame.entity.door
+SeriousGame.entity.mob
+SeriousGame.entity.particle
+SeriousGame.entity.projectile
+SeriousGame.entity.spawner
+SeriousGame.entity.terminal
+SeriousGame.graphics
+SeriousGame.input
+SeriousGame.level
+SeriousGame.level.tile
